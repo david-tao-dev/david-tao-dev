@@ -1,5 +1,4 @@
-## Hi there, I am David. 👋
-## I am Bittensor Miner.
+## 👋 Hi there, I am David and I am Bittensor Miner.
 
 <br/>
 <table align="center">
